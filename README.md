@@ -50,8 +50,8 @@ To run or edit the website locally, you’ll need:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/abc-property.git
-cd abc-property
+git clone https://github.com/yourusername/TAPG.git
+cd TAPG
 ```
 
 ### 2. Open in Your Editor

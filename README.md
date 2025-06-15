@@ -1,6 +1,6 @@
-# 🏠✨ ABC Property
+# 🏠✨ The Absolute Property Group
 
-**ABC Property** is a dynamic web-based platform focused on delivering smart, efficient, and accessible property solutions. Whether you're a buyer, seller, agent, or investor, the application empowers users to explore real estate opportunities, manage listings, connect with experts, and streamline property transactions in a digital-first environment.
+**The Absolute Property Group** is a dynamic web-based platform focused on delivering smart, efficient, and accessible property solutions. Whether you're a buyer, seller, agent, or investor, the application empowers users to explore real estate opportunities, manage listings, connect with experts, and streamline property transactions in a digital-first environment.
 
 Built using **HTML, CSS, and JavaScript**, the platform offers an intuitive, responsive interface with animated interactions for a seamless user experience.
 
@@ -93,5 +93,5 @@ abc-property/
 
 ---
 
-> 🌟 **ABC Property** is more than a real estate site—it's your gateway to smarter property decisions. Whether you're searching, selling, or exploring, we've built a space that brings people and properties together effortlessly.
+> 🌟 **The Absolute Property Group** is more than a real estate site—it's your gateway to smarter property decisions. Whether you're searching, selling, or exploring, we've built a space that brings people and properties together effortlessly.
 

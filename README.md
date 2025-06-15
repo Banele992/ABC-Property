@@ -8,7 +8,8 @@ Built using **HTML, CSS, and JavaScript**, the platform offers an intuitive, res
 
 ## 🏡 Home Page
 
-![image](https://github.com/user-attachments/assets/97730ed0-7a3f-46c4-843b-09d575f9793d)
+![image](https://github.com/user-attachments/assets/fd5a4c87-8191-490b-a574-7ba7a65d7ef2)
+
 
 ---
 
